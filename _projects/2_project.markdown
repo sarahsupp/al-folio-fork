@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: eBird movement and migration
+description: Learning how birds migrate and move across North America
 img: /assets/img/3.jpg
 importance: 2
 ---

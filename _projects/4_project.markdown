@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: BEDE Network
+description: Biological and Environmental Data Education Network, NSF RCN-UBE
 img:
 importance: 3
 ---

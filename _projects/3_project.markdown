@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Global biodiversity change
+description: How we measure biodiversity, and evaluate recent impacts
 img: /assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
